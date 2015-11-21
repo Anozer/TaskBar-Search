@@ -1,0 +1,12 @@
+#ignore all build content but keep the folder
+build/*
+
+#ignore the deploy folder
+deploy/
+
+#ignore all .user files
+*.user
+
+#ignore all useless icons
+icons/icon.*.fw.*
+
